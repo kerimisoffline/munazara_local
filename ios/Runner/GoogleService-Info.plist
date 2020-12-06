@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>855567170695-noj8dr7c4a7trble0nv0dstaa7415pqb.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.855567170695-noj8dr7c4a7trble0nv0dstaa7415pqb</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDN1-Cx00Us_toTPJ5rCE0aTtCjGs13_PE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>855567170695</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.munazara.omniex</string>
+	<key>PROJECT_ID</key>
+	<string>munazara-6a3a5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>munazara-6a3a5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:855567170695:ios:88c8284a2f31846b600c22</string>
+	<key>DATABASE_URL</key>
+	<string>https://munazara-6a3a5.firebaseio.com</string>
+</dict>
+</plist>

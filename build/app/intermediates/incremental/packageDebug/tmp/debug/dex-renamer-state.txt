@@ -1,0 +1,10 @@
+#Sun Dec 06 14:26:02 EET 2020
+path.2=classes3.dex
+path.1=classes2.dex
+path.0=classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+base.2=C\:\\Users\\90539\\Desktop\\dev-kit\\flutterdocs\\dev_MunazaraApp\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+base.1=C\:\\Users\\90539\\Desktop\\dev-kit\\flutterdocs\\dev_MunazaraApp\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+base.0=C\:\\Users\\90539\\Desktop\\dev-kit\\flutterdocs\\dev_MunazaraApp\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0

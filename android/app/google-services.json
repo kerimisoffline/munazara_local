@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "855567170695",
+    "firebase_url": "https://munazara-6a3a5.firebaseio.com",
+    "project_id": "munazara-6a3a5",
+    "storage_bucket": "munazara-6a3a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855567170695:android:dcf945a3b218b7a3600c22",
+        "android_client_info": {
+          "package_name": "com.munazara.omniex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855567170695-gmcdeucvqblmg3ne6uble39hfkr9tdcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCivRwov4LQqXnh1qpVvYhQUuWMZ9jfaik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "855567170695-gmcdeucvqblmg3ne6uble39hfkr9tdcb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "855567170695-noj8dr7c4a7trble0nv0dstaa7415pqb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.munazara.omniex"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
